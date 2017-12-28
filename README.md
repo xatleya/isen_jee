@@ -35,6 +35,6 @@ If you clone this repo, you will get:
   * `Drug` to represent the managed drug
 * The provided tests are your guide! Read them to understand what is needed. The *structure tests try to check if your class is correctly built and the *behaviour tests check the qualitfy of your algorithms. Package names and fields are not detailed, the tips are in the tests ;)
 
-#_Good luck!_
+# _Good luck!_
  
  
