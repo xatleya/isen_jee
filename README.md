@@ -12,7 +12,7 @@ With this practical work, you will learn a few things:
 ## A drugstore story
 
 We have to develop a webapp in order to help pharmacists with their stock of drugs.
-The needs are really easy to implement, actually, the pharmacist will be able to use a "secured" webapp. Once authenticated, the list of the drugs is displayed and a form allow to add some new drugs.
+The needs are really easy to implement, actually, the pharmacist will be able to use a "secured" webapp. Once authenticated, the list of the drugs is displayed and a form allows to add some new drugs.
 
 ## Starter kit
 
