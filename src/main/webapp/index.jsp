@@ -9,9 +9,9 @@
 	<h1>Welcome, please login</h1>
 	<%
         if(request.getAttribute("loginError")!=null) {
-            out.print((String)request.getAttribute("loginError"));
+            System.out.print((String)request.getAttribute("loginError"));
         }else{
-        	out.print("You have to authenticate yourself");
+			System.out.print("You have to authenticate yourself");
         }                  
     %>
 	<form method="post" action="login">
